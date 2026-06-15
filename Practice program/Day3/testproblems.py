@@ -57,3 +57,4 @@ elif mark>=70 and mark<=79:
 else:
     print("Grade : F")
     print("Result : Fail")
+    
